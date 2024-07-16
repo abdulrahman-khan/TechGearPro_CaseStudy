@@ -14,12 +14,16 @@ The average annual sales reached 21K orders with a yearly sales of $5 million an
 
 Non-loyalty members have made up over double the sales in both 2019 and 2020, but that gap is closing as more and more people join the loyalty program. Loyalty members made up over half the sales for the first time in 2020. Loyalty members spend more on average, and purchase more expensive items compared to the non-loyalty members. The team recommends to continue to the loyaty program, as the treds indicate the loyalty customers could contribute to majority of the company sales in the coming future.
 
+Monthly Growth Rates
 ![Monthly Growth Rates](https://github.com/user-attachments/assets/4421531e-534e-42e9-9de0-b80286b98651)
 
+Yearly Summary and Growth Rates
 ![Yearly Summary and Growth Rates](https://github.com/user-attachments/assets/5cb6224a-e12a-4fe7-aeb0-8178ce0c39e4)
 
+Best Selling Product per Year
 ![Best Selling Product per Year](https://github.com/user-attachments/assets/cfddd556-e349-4978-93d1-3c1e228d913f)
 
+Yearly Summary and Growth rates for Loyalty vs Non-Loyalty Members
 ![Yearly Summary and Growth rates for Loyalty vs Non-Loyalty Members](https://github.com/user-attachments/assets/682faf4d-11ff-4813-85c4-a0eb6bcdfe5a)
 
 
